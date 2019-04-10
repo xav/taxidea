@@ -1,0 +1,16 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Vendor directory
+vendor
+
+# Test binary, build with `go test -c`
+*.test
+
+# IntelliJ/GoLand/VSCode
+.idea
+.vscode
